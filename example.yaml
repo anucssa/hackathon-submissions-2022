@@ -1,0 +1,10 @@
+name: Example Project
+author: Ashley Lamont
+license: MIT
+repository_url: https://example.com
+description: A file that shows how you can submit your hackathon project.
+demo_url: https://example.com
+tags:
+- json
+- yaml
+- git
