@@ -10,7 +10,7 @@ You can push to it, by creating a fork, applying your changes there and then cre
 If you don't know how to use git, reach out to one of our friendly comittee members or CROs and we'll be able to lend a hand!
 
 ## Submission Format
-You should create a file in [/submissions](https://github.com/anucssa/hackathon-submissions-2022/tree/main/submissions) that is named as either `<githubusername>.json` or `<githubusername>.yml` where `<githubusername>` is replaced with your GitHub username. (Hopefully we'll be able to use this to automate PRs).
+You should create a file in [/submissions](https://github.com/anucssa/hackathon-submissions-2022/tree/main/submissions) that is named as either `<githubusername>.json` or `<githubusername>.yml` where `<githubusername>` is replaced with your GitHub username. (Hopefully we'll be able to use this to automate PRs). Where you have multiple people in your group just choose one name and include the other authors in the yml or json file.
 This file should contain the following attributes:
 | Property       | Description                                                                                                                                                                                                      | Required?                        |
 |----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
