@@ -1,7 +1,7 @@
 # CSSA Hackathon Project Submissions
 Welcome to the CSSA 2022 Hackathon!
 To organise our submissions and ensure voting is both smooth and accessible, we will be requesting that everybody submit their projects to a group repository (if they wish to have it graded).
-Since we understand that having a group repo for the actual code will be, well, nightmarish to manage, we'll just be asking that people submit a file describing their project, and providing some metadata and info that we can use.
+Since we understand that having a group repo for the actual code will be, well, nightmarish to manage, we'll just be asking that people submit a file describing their project, and providing some metadata and info that we can use. You will be able to [vote using this form](https://forms.office.com/r/3iMqNKGy6i).
 
 To that end:
 ## CSSA Hackathon Repo
