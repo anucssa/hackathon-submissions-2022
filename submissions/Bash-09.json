@@ -1,0 +1,14 @@
+{
+  "name": "3D model voxeliser",
+  "author": "Ethan Miegel",
+  "license": "GPLv3",
+  "repository_url": "https://github.com/Bash-09/voxeliser",
+  "description": "Import a 3D model and create a voxelised version of it!",
+  "demo_url": "https://github.com/Bash-09/voxeliser#demo-images",
+  "tags": [
+    "rust",
+    "3D",
+    "graphics"
+    "models"
+  ]
+}
