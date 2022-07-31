@@ -1,0 +1,14 @@
+{
+    "name": "Events Calendar",
+    "author": "Matthew Chen",
+    "license": "CC-BY-SA-4.0 license",
+    "repository_url": "https://github.com/zevelopa/eventscalendar",
+    "description": "A potential CSSA events calendar",
+    "demo_url": "https://cssaeventscalendar.matthewchen.dev/",
+    "tags": [
+      "nextjs",
+      "tailwindcss",
+      "calendar"
+    ]
+  }
+  
