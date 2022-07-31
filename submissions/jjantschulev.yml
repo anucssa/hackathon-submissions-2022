@@ -1,0 +1,9 @@
+name: Lust (Logic and Rust parser)
+author: Mitchell & Jordan
+repository_url: https://github.com/jjantschulev/lust
+description: A mostly unfinished logic parser & general toolkit to provide a base for some interesting computations that can be performed on logic syntax trees. (Natural Deduction / Semantic Tableux / Evalutaion / etc)
+demo_url: https://github.com/jjantschulev/lust
+tags:
+- rust
+- logic
+- parser
