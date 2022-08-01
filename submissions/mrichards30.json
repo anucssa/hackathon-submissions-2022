@@ -1,0 +1,15 @@
+{
+	"name": "AI Hackathon Idea Generator",
+	"author": ["Matthew Richards", "Thomas Powell-Davies"],
+	"repository_url": "https://github.com/mrichards30/hackathon/",
+	"description": "An AI-powered (GPT-3) Hackathon idea generator to help the disadvantaged group of comp students with no creative talent.",
+	"demo_url": "https://mrichards30.github.io/hackathon",
+	"tags": [
+		"ai",
+		"gpt3",
+		"hackathon",
+		"java",
+		"spring",
+		"mongodb"
+	]
+}
