@@ -1,0 +1,8 @@
+name: Programming Language
+author: Oliver Balfour
+license: MIT
+repository_url: https://github.com/OliverBalfour/Language
+description: Simple programming language with arithmetic, if/else statements, while loops and no functions!
+tags:
+- compilers
+- rust
