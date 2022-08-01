@@ -1,0 +1,12 @@
+name: Programs and Courses Prerequisites
+author: Alex MB (Scibuild)
+license: MIT
+repository_url: https://github.com/Scibuild/cssa-hackathon-2022-prerequesites
+description: A few scripts and simple websites that manage scraping, translating and using the prerequisites info from Programs and Courses.
+demo_url: https://github.com/Scibuild/cssa-hackathon-2022-prerequesites/blob/main/readme.md
+tags:
+- javascript
+- html
+- python
+- anu
+- programsandcourses
