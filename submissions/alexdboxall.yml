@@ -1,0 +1,10 @@
+name: Degree Planner
+author: Alex Boxall
+license: BSD-2-Clause
+repository_url: https://github.com/alexdboxall/Degree-Planner
+description: A degree planner mainly for COMP courses and degrees. It highlights missing prerequisites and courses placed in the wrong semester.
+demo_url: https://alexdboxall.github.io/Degree-Planner/
+tags:
+- degree
+- planner
+- javascript
