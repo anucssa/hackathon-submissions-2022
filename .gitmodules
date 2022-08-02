@@ -1,0 +1,21 @@
+[submodule "submissions/alexdboxall"]
+	path = submissions/alexdboxall
+	url = https://github.com/alexdboxall/Degree-Planner.git
+[submodule "submissions/Bash-09"]
+	path = submissions/Bash-09
+	url = https://github.com/Bash-09/voxeliser.git
+[submodule "submissions/jjantschulev"]
+	path = submissions/jjantschulev
+	url = https://github.com/jjantschulev/lust.git
+[submodule "submissions/mrichards30"]
+	path = submissions/mrichards30
+	url = https://github.com/mrichards30/hackathon.git
+[submodule "submissions/oliverbalfour"]
+	path = submissions/oliverbalfour
+	url = https://github.com/OliverBalfour/Language.git
+[submodule "submissions/scibuild"]
+	path = submissions/scibuild
+	url = https://github.com/Scibuild/cssa-hackathon-2022-prerequesites.git
+[submodule "submissions/zevelopa"]
+	path = submissions/zevelopa
+	url = https://github.com/zevelopa/eventscalendar.git
