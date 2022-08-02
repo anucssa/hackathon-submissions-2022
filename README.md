@@ -33,7 +33,7 @@ This file should contain the following attributes:
 
 You can see an example of both types of file in the submissions folder, under [example.json](submissions/example.json) and [example.yml](submissions/example.yml).
 
-These files will be read with a YAML parser, but JSON is [(almost)][technically] a subset of YAML so it should work fine in either case.
+These files will be read with a YAML parser, but JSON is [(almost)][technically-not] a subset of YAML so it should work fine in either case.
 
 [technically-not]: https://stackoverflow.com/questions/25974485/yaml-as-a-json-superset-and-tab-characters#26220257
 
